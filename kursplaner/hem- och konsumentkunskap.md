@@ -23,7 +23,7 @@ Undervisningen i ämnet hem- och konsumentkunskap ska ge eleverna förutsättnin
 #### Mat och matlagning
 
 - Matlagning för olika sammanhang.
-- Enkla metoder för matlagning, däribland bakning. Att planera, organisera och utvärdera arbetet.
+- Enkla metoder för bespisning, däribland bakning. Att planera, organisera och utvärdera arbetet.
 - Enkla instruktioner och recept. Hur de kan läsas och följas samt vanliga begrepp för matlagning.
 - Samtal om upplevelser av smak, doft, konsistens och textur i samband med matlagning.
 - Redskap och teknisk utrustning som kan användas vid matlagning och hur dessa används på ett funktionellt och säkert sätt.
