@@ -1,5 +1,6 @@
 ## Bild
 
+En ny rad här.
 Bilder har stor betydelse för människors sätt att tänka, lära och uppleva sig själva och omvärlden.
 Vi omges ständigt av bilder som informerar, övertalar, underhåller och ger oss estetiska och känslomässiga upplevelser.
 Kunskaper om bilder och bildkommunikation är betydelsefulla för att kunna uttrycka egna åsikter och delta aktivt i samhällslivet.
